@@ -12,44 +12,26 @@
         "hidden": false
     },
     "profile": {
-        "name": "姓名",
-        "email": "736****86@qq.com",
-        "mobile": "156********",
-        "github": "https://github.com/visiky",
-        "zhihu": "https://zhihu.com/people/visiky",
+        "name": "于程帆",
+        "email": "17835204735@163.com",
+        "mobile": "18362604128",
+        "github": "https://github.com/yucheng2",
         "workExpYear": "",
-        "workPlace": "浙江杭州",
+        "workPlace": "江苏苏州",
         "positionTitle": "前端工程师"
     },
     "educationList": [
         {
             "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
+                "2017.09.01",
+                "2021.06.30"
             ],
-            "school": "华南理工大学",
-            "major": "网络工程",
+            "school": "山西大同大学",
+            "major": "数学与应用数学",
             "academic_degree": "本科"
         }
     ],
-    "awardList": [
-        {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
-        },
-        {
-            "award_info": "蚂蚁近卫军 卓越个人奖",
-            "award_time": "2018.09"
-        },
-        {
-            "award_info": "前端练习生 可视化讲师",
-            "award_time": "2020.10"
-        },
-        {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
-        }
-    ],
+    "awardList": [],
     "workExpList": [
         {
             "company_name": "蚂蚁集团",
